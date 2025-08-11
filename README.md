@@ -16,8 +16,5 @@ To develop a prototype that ingests project risk data and produces updated risk 
 - [ ] Sample data collection underway
 - [ ] Notion workspace set up for task tracking
 
-## 🤝 Contributors
-Add yourself in the Contributors section below as you contribute!
-
 ## 📜 License
 This is a private research project under PMI Ireland AI Innovation Hub. Use by permission only.
